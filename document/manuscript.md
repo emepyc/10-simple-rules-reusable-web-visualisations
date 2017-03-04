@@ -5,3 +5,6 @@ Browsers’ performance has increased hugely; a process which has happened hand 
 
 # 1. Define the context, question and audience
 The goal of data visualisation is to communicate complex information accurately, making the relevant bits stand out among the less important data. In short, to raise the signal-to-noise ratio, figuratively speaking. The aforementioned relevant data should start with a question asked in regular language (e.g. “What genes are related to a specific disease?”, “How does a certain treatment affect the expression of a gene?”). However, as web developers, are responsibility is two-fold if we want our data visualisation to be reusable. We want to make our end product, our code, to be easily integrated in any environment. This is one of the fundamental ideas that permeate the following nine rules.
+
+# 4. Take advantage of the web
+The web was built on links, use them! Don’t build a closed silo. Your data visualisation should link to other resources and should pull as much information as possible without losing focus of your core question. Don’t make it a do-all, show-all sorts of data. It’s a fine line. Use common sense. Think if the linked-to or pulled data enhances the understandability of the information you’re presenting.
