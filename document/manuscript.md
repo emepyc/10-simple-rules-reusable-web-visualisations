@@ -8,12 +8,17 @@ The goal of data visualisation is to communicate complex information accurately,
 
 # 2. Explore different ways of visualising the data
 Often coming up with one good visualisation can be challenging and coming up with two or three even more so.
+
 You need some understanding of basic perceptual/cognitive principles and visual channels for encoding data.
+
 User experience (UX) principles and practices can help: a sketching session is a good starting point to get ideas.
 This can be quite informal (tea, coffee and cookies will boost the spirit and creativity) and, like most UX activities, works best in team.
+
 Gather a diverse group of people: not just the developers, but also real or potential users, data experts. Explain the problem, then each participant should/could attempt to sketch 1-3 ideas within a limited time – don’t be afraid to try unconventional ideas, just sketch freely.
+
 To some participant this might come quite natural, but not to everyone.
 Some sketches might be similar to each other, while some might stand out.
+
 Take the most promising one and test it with users.
 
 # 4. Take advantage of the web
