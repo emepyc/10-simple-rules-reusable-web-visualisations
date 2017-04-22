@@ -33,3 +33,13 @@ Current list of issues / rules:
 
 [Rule #10](https://github.com/emepyc/10-simple-rules-reusable-web-visualisations/issues/10) Test with users as soon as you can and as often as you can
 
+## See also
+
+Here is a list of previous _10 simple rules_ papers relevant to this one. We should try to minimise the overlap and include references where appropriate:
+
+- [Ten Simple Rules for Developing Usable Software in Computational Biology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
+- [Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+- [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+- [Ten Simple Rules for the Open Development of Scientific Software](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002802)
+- [Ten Simple Rules for Providing a Scientific Web Resource](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001126)
+
