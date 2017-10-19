@@ -47,9 +47,26 @@ When developing for the web you have access to lots of data resources from where
 
 One of the main disadvantages of using such resources is that the visualisation depends on data you don't control, ie, if the data format served by these resources changes your visualisation will need to update at the same time (or as soon as possible, see BOX 1). Ideally these resources should be versioned so you can still access older versions but this does not always happens.
 
-Taking advantage of the web also means that your component can include several links to relevant resources. 
+Taking advantage of the web also means that your component can and should link out to relevant resources. 
 
 ## 5. Be modular and be reusable
+Modularity is a well recognised property of good software.
+It is a good coding practice to organize the code in small parts (libraries, modules, etc) that ense\
+mble together in a functional application. The same is true for reusable visualization components. B\
+reaking up your component in smaller functional parts and making those parts available (through npm \
+for example) increases the chances of any of the sub-components to be useful on their own to other c\
+omponent developers.
+
+## 6. Choose your dependencies carefully
+
+## 7. Your code is (also) your product
+
+## 8. Provide a good API for developers
+
+## 9. Test and profile your code
+
+## 10. Test with users as soon as you can and as often as you can
+
   
 ## BOX 1: Choose your distribution system
 
